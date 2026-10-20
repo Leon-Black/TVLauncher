@@ -23,9 +23,9 @@
 
 ## 安装
 
-在[这里](https://github.com/Leon-Black/TVLauncher/releases/latest)下载 APK，在电视上使用文件管理器安装；系统如有提示，允许安装即可。也可使用 [ADB](docs/DEVELOPMENT.md#安装和设备测试) 的方式安装。
+在[这里](https://github.com/Leon-Black/TVLauncher/releases/latest)下载安装包，在电视上使用文件管理器安装；如有提示，允许即可。也可使用 [ADB](docs/DEVELOPMENT.md#安装和设备测试) 的方式安装。
 
-安装后，先从电视现有桌面打开“TV Launcher”，验证遥控导航和应用启动。
+安装后，从电视现有桌面打开 TV Launcher。
 
 ## 壁纸位置和权限
 
@@ -39,7 +39,9 @@
 
 其他文件夹的图片不会出现在壁纸抽屉里。
 
-第一次打开壁纸抽屉时，需要允许 TV Launcher 读取图片。如果图片没有显示，请检查权限和图片存放位置。
+第一次打开壁纸抽屉时，需要允许 TV Launcher 读取图片。
+
+如果壁纸抽屉里没有任何图片，请检查权限和图片存放位置。
 
 ## 数据与网络
 
