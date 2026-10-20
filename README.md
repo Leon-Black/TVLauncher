@@ -18,8 +18,8 @@
 
 ## 兼容范围
 
-- 最低 Android 10（API 29）。
-- 验证设备是 Sony BRAVIA 4K UR2（Android 10）；没验证过其他品牌和系统版本。
+- 系统版本最低 Android 10。
+- 验证设备是 Sony BRAVIA 4K UR2；没验证过其他品牌和系统版本。
 
 ## 安装
 
