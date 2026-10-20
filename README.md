@@ -35,7 +35,7 @@
 /sdcard/Pictures/Wallpaper/
 ```
 
-**壁纸文件夹必须命名为 `Wallpaper`且放在 `Picture`文件夹里，否则 TV Launcher 没法读取壁纸**。支持读取子文件夹。
+**壁纸需要放在 Pictures/Wallpaper/ 路径下，支持读取其中的子文件夹。**
 
 其他文件夹的图片不会出现在壁纸抽屉里。
 
