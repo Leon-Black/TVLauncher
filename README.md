@@ -23,7 +23,7 @@
 
 ## 安装
 
-从附件下载 APK，在电视上使用文件管理器安装；系统如有提示，允许安装即可。也可使用 [ADB](docs/DEVELOPMENT.md#安装和设备测试) 的方式安装。
+在[这里](https://github.com/Leon-Black/TVLauncher/releases/latest)下载 APK，在电视上使用文件管理器安装；系统如有提示，允许安装即可。也可使用 [ADB](docs/DEVELOPMENT.md#安装和设备测试) 的方式安装。
 
 安装后，先从电视现有桌面打开“TV Launcher”，验证遥控导航和应用启动。
 
