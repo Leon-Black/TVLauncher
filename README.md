@@ -16,6 +16,8 @@
 应用列表：
 <img width="1920" height="1080" alt="TV Launcher-App List" src="https://github.com/user-attachments/assets/6e8d9219-495a-4c5f-ad9d-4675b6152075" />
 
+操作演示在[这里](https://github.com/user-attachments/assets/925542d4-c1a7-4a85-b0a9-9a6d6f81b2ef)。
+
 ## 兼容范围
 
 - 系统版本最低 Android 10。
