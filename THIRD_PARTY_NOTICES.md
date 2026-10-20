@@ -1,0 +1,16 @@
+# Third-party notices
+
+## Google Material Symbols / Material Icons
+
+Source: https://fonts.google.com/icons
+Upstream: https://github.com/google/material-design-icons
+License: Apache License 2.0 (see app/src/main/assets/licenses/Apache-2.0.txt).
+
+User-supplied Google icon exports are used in:
+- app/src/main/res/drawable/settings_icon.xml
+- app/src/main/res/drawable/wallpaper_icon.xml
+- docs/settings-icon.svg
+- docs/wallpaper-icon.svg
+
+Local adaptations: XML exports use white as the base fill and remove theme tint; the application supplies state-dependent colors. Vector geometry is retained.
+These assets retain their upstream license; the GPL-3.0-only project declaration does not replace it.

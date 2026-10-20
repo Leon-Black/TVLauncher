@@ -1,0 +1,12 @@
+.tools/
+.gradle/
+local.properties
+**/build/
+artifacts/
+.DS_Store
+
+# Private signing material
+*.keystore
+*.jks
+*.p12
+PASSWORD.txt
