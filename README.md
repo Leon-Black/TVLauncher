@@ -37,7 +37,8 @@ TV Launcher 没有内置壁纸，需要自行把图片放入电视机的 **`Pict
 /sdcard/Pictures/Wallpaper/
 ```
 
-**目录名须命名为 `Wallpaper`，否则会读取不到图片**。支持读取子文件夹。
+**放壁纸的文件夹必须命名为 `Wallpaper`，否则 TV Launcher 没法读取壁纸**。
+支持读取子文件夹。
 
 其他目录的图片不会出现在壁纸抽屉里。
 
