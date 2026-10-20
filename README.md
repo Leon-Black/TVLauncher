@@ -35,7 +35,7 @@
 /sdcard/Pictures/Wallpaper/
 ```
 
-**壁纸需要放在 Pictures/Wallpaper/ 路径下，支持读取其中的子文件夹。**
+**壁纸需要放在 `Pictures/Wallpaper/` 路径下，支持读取其中的子文件夹。**
 
 其他文件夹的图片不会出现在壁纸抽屉里。
 
