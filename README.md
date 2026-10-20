@@ -5,6 +5,7 @@
 我设计 UI，Codex 写代码。UI 上参考了印象中的 Apple TV。
 
 ## 截图
+
 首页
 
 <img width="1920" height="1080" alt="TV Launcher-Home" src="https://github.com/user-attachments/assets/aae4d66d-94be-4de5-ab96-5a5d686d22ab" />
